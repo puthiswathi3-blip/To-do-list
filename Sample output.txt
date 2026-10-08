@@ -1,0 +1,33 @@
+Sample output:
+
+--- To-Do List Menu ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice: 1
+Enter a task: dancing
+Task added successfully!
+
+--- To-Do List Menu ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice: 1
+Enter a task: reading
+Task added successfully!
+
+--- To-Do List Menu ---
+1. Add Task
+2. View Tasks
+3. Update Task
+4. Remove Task
+5. Exit
+Enter your choice: 2
+
+Your To-Do List:
+1. dancing
+2. reading
